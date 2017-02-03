@@ -1,6 +1,6 @@
 <?php
 echo "Hello World"; 
-Malkhan Parm
+Malkhan Parmar
 
 ?>
  
