@@ -1,5 +1,5 @@
 
-<?php
+<?php 
 $con=mysqli_connect("localhost","root","root","test");
 if (mysqli_connect_errno())
 {
